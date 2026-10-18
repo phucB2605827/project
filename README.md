@@ -3,7 +3,7 @@
 **Học phần**: Nền tảng công nghệ số (CT005/D06)
 - **Giảng viên hướng dẫn**: TS. Bùi Võ Quốc Bảo
 - **Sinh viên thực hiện** Phạm Quỳnh Công Phúc | **MSSV**: B2605827 | **Khóa**: 52
-- **Sinh viên thực hiện** Bùi Tấn Đạt | **MSSV**: B2605759 | **Khóa**: 52
+- **Sinh viên thực hiện** Bùi Tấn Đạt | **MSSV**: B2605799 | **Khóa**: 52
 - **Trường**: Công nghệ thông tin & Truyền thông - Đại học Cần Thơ
 
 # DỰ ÁN 1 : Khám phá các xu hướng CNTT mới nổi - Các công cụ AI đang thay đổi giáo dục như thế nào.
