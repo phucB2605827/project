@@ -13,3 +13,4 @@
 - Thành viên B-Phạm Quỳnh Công Phúc (Thành viên): Nghiên cứu dữ liệu CRAAP, biên tập kịch bản & sản xuất Video YouTube, thiết kế Slide , Thuyết trình
 
 **Link youtube**: https://youtu.be/OsNvcB3mnSs?si=pMhujRqQCUi-Z9dS
+**Link GitHub**: [https://youtu.be/OsNvcB3mnSs?si=pMhujRqQCUi-Z9dS](https://github.com/phucB2605827/project.git)
